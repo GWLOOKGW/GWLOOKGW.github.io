@@ -4,7 +4,7 @@ You can see my other website
 
 
 
-* [Myblog](www.mysilicon.cn)
-* [My Wiki](wiki.mysilicon.cn)
-* [My kodbox](kodbox.mysilicon.cn)
-* [LaTeX Book](svn.mysilicon.cn/latex.pdf)
+* [Myblog](https://www.mysilicon.cn)
+* [My Wiki](http://wiki.mysilicon.cn)
+* [My kodbox](http://kodbox.mysilicon.cn)
+* [LaTeX Book](http://svn.mysilicon.cn/latex.pdf)
